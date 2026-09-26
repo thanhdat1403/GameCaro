@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+
+# User-specific Visual Studio files
+*.vcxproj.user
+
+# Build output
+*.obj
+*.pdb
+*.exe
+*.ilk
+*.tlog
+*.idb
+*.ipch
